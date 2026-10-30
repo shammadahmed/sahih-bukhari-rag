@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "retrieval": "SQLite FTS5 BM25",
+  "chunk_words": 350,
+  "overlap_words": 60,
+  "unique_volume_count": 9,
+  "passage_count": 4488,
+  "volumes": [
+    {
+      "volume": "Volume 1",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-1-Ahadith-0001-875.epub",
+      "pages_extracted": 480,
+      "characters_extracted": 702686,
+      "passages": 503
+    },
+    {
+      "volume": "Volume 2",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-2-Ahadith-876-1772.epub",
+      "pages_extracted": 465,
+      "characters_extracted": 657827,
+      "passages": 482
+    },
+    {
+      "volume": "Volume 3",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-3-Ahadith-1773-2737.epub",
+      "pages_extracted": 541,
+      "characters_extracted": 794719,
+      "passages": 580
+    },
+    {
+      "volume": "Volume 4",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-4-Ahadith-2738-3648.epub",
+      "pages_extracted": 507,
+      "characters_extracted": 745716,
+      "passages": 519
+    },
+    {
+      "volume": "Volume 5",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-5-Ahadith-3649-4473.epub",
+      "pages_extracted": 456,
+      "characters_extracted": 690621,
+      "passages": 506
+    },
+    {
+      "volume": "Volume 6",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-6-Ahadith-4474-5062.epub",
+      "pages_extracted": 461,
+      "characters_extracted": 625627,
+      "passages": 432
+    },
+    {
+      "volume": "Volume 7",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-7-Ahadith-5063-5969.epub",
+      "pages_extracted": 447,
+      "characters_extracted": 614248,
+      "passages": 441
+    },
+    {
+      "volume": "Volume 8",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-8-Ahadith-5970-6860.epub",
+      "pages_extracted": 449,
+      "characters_extracted": 676131,
+      "passages": 486
+    },
+    {
+      "volume": "Volume 9",
+      "source_file": "Sahih Al-Bukhari-Arabic_English_Volume-9-Ahadith-6861-7563.epub",
+      "pages_extracted": 481,
+      "characters_extracted": 770201,
+      "passages": 539
+    }
+  ],
+  "database_file": "bukhari_fts.db"
+}
